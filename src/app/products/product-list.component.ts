@@ -28,7 +28,7 @@ export class ProductListComponent implements OnInit {
             "description": "Leaf rake with 48-inch wooden handle.",
             "price": 19.95,
             "starRating": 3.2,
-            "imageUrl": "../../assets/images/leaf_rake.png"
+            "imageUrl": "assets/images/leaf_rake.png"
       },
       {
             "productId": 2,
@@ -38,7 +38,7 @@ export class ProductListComponent implements OnInit {
             "description": "15 gallon capacity rolling garden cart",
             "price": 32.99,
             "starRating": 4.2,
-            "imageUrl": "../../assets/images/garden_cart.png"
+            "imageUrl": "assets/images/garden_cart.png"
       }
     ];
 
